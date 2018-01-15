@@ -1,2 +1,6 @@
 info:
   profile: default
+  
+test:
+    data: 'defaultServiceData'
+    content: 12
