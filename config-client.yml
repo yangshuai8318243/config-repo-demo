@@ -1,6 +1,7 @@
 info:
   profile: default
-  
-test:
-    data: 'defaultServiceData'
-    content: 12
+
+propertySources:
+    test:
+        data: 'defaultServiceData'
+        content: 12

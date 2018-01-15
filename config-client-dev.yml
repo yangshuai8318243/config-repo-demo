@@ -1,6 +1,7 @@
 info:
   profile: dev
   
-test:
-    data: 'devServiceData'
-    content: 12
+propertySources:
+    test:
+        data: 'devServiceData'
+        content: 12
