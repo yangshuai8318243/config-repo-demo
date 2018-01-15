@@ -1,6 +1,6 @@
 info:
   profile: live
-propertySources:
-    test:
-        data: 'liveServiceData'
-        content: 12
+test:
+    data: 'liveServiceData'
+    content: 12
+    default:
